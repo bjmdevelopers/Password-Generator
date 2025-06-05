@@ -12,7 +12,7 @@ A simple yet powerful password generator tool that creates secure, random passwo
   - Numbers (0-9)
   - Symbols (!@#$...)
 - 📝 Generate multiple passwords at once
-- 💾 Save passwords to a text file (default location: `/sdcard/Download/generated_passwords.txt`)
+- 💾 Save passwords to a text file default location: `/sdcard/Download/generated_passwords.txt`)
 - 🖥️ Simple command-line interface
 
 ## Installation

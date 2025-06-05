@@ -19,7 +19,7 @@ A simple yet powerful password generator tool that creates secure, random passwo
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/password-generator.git
+   git clone https://github.com/bjmdevelopers/Password-Generator.git
    cd password-generator
    ```
 

@@ -28,7 +28,7 @@ def get_valid_integer(prompt, default, min_val=None, max_val=None):
         except ValueError:
             print("⚠️ Please enter a valid number.")
 
-def save_to_file(passwords, file_name="/Download/generated_passwords.txt"):
+def save_to_file(passwords, file_name="/sdcard/Download/generated_passwords.txt"):
     try:
         with open(file_name, "a") as f:
             f.write("\n".join(passwords) + "\n")

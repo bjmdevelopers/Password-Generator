@@ -65,7 +65,7 @@ How many passwords to generate (default 1): 3
 
 Save passwords to .txt file and download? [Y/n]: y
 
-✅ Saved to: /sdcard/Download/generated_passwords.txt
+✅ Saved to: /Download/generated_passwords.txt
 
 Generate more? [Y/n]: n
 ```
